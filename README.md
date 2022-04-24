@@ -1,2 +1,5 @@
-# proyecto2
- proyecto 2 Security Data Science
+# Proyecto 2 de Security Data Science: Prediccion de infeccion por malware
+
+* Codigo: main.ipynb
+* Reporte de datos: output2.html
+* Articulo: articulo.pdf
